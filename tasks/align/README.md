@@ -60,3 +60,6 @@ vystup = "vysledek.txt"
 # --- SPUŠTĚNÍ ---
 if _name_ == "_main_":
     zpracovat_knihy(vstup_cesky, vstup_anglicky, vystup)
+
+[Semantic_Text_Alignment_of_War_with_the_Newts_DominikFranek_and_VojtechMahdal.pdf](https://github.com/user-attachments/files/24982248/Semantic_Text_Alignment_of_War_with_the_Newts_DominikFranek_and_VojtechMahdal.pdf)
+
